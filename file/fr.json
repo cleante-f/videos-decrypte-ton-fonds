@@ -910,5 +910,25 @@
    "Alors avant de cliquer sur acheter, vérifie l'écart."
   ],
   "config": null
+ },
+ {
+  "fichier": "madoff.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/fr-lot-3/madoff.mp4",
+  "texte": null,
+  "script": [
+   "Bernie Madoff était une légende de Wall Street.",
+   "Il avait même présidé la Bourse du Nasdaq.",
+   "Son fonds promettait quelque chose de magique : environ 10 % de gain par an, régulier, que les marchés montent ou baissent.",
+   "Les investisseurs suppliaient pour entrer.",
+   "Mais les rendements étaient trop réguliers pour être vrais.",
+   "Un analyste financier, Harry Markopolos, a alerté les autorités pendant des années.",
+   "Elles ne l'ont pas arrêté.",
+   "En coulisses, Madoff payait simplement les anciens clients avec l'argent des nouveaux.",
+   "En 2008, la crise financière a frappé, et les investisseurs ont réclamé des milliards.",
+   "L'argent n'était pas là.",
+   "Madoff a avoué. Ses relevés affichaient environ 65 milliards de dollars qui n'existaient pas.",
+   "Il a été condamné à 150 ans de prison."
+  ],
+  "config": null
  }
 ]
