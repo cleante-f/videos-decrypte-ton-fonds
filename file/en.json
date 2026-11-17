@@ -875,5 +875,552 @@
    "And in New York, a bronze bull still charges near Wall Street."
   ],
   "config": null
+ },
+ {
+  "fichier": "spread-achat-vente.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/spread-achat-vente.mp4",
+  "texte": null,
+  "script": [
+   "Ever exchanged money at an airport?",
+   "The booth buys euros at one price, and sells them at a higher one.",
+   "That gap is called the spread.",
+   "On the stock market, every share has two prices too.",
+   "The bid: the highest price someone will pay.",
+   "The ask: the lowest price someone will sell for.",
+   "If you buy and then sell instantly, you lose the difference.",
+   "For huge companies traded all day, the spread is usually tiny, often just a cent.",
+   "But for small or rarely traded stocks, it can be wide.",
+   "It's a hidden cost that never shows up as a fee.",
+   "So before you click buy, check the gap."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "madoff.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/madoff.mp4",
+  "texte": null,
+  "script": [
+   "Bernie Madoff was a Wall Street legend.",
+   "He had even been chairman of the Nasdaq stock market.",
+   "His fund promised something magical: steady gains of about ten percent a year, whether markets went up or down.",
+   "Investors begged to get in.",
+   "But the returns were too smooth to be true.",
+   "A financial analyst named Harry Markopolos warned regulators for years.",
+   "They didn't stop it.",
+   "Behind the scenes, Madoff simply paid old clients with new clients' money.",
+   "In 2008, the financial crisis hit, and investors asked for billions back.",
+   "The money wasn't there.",
+   "Madoff confessed. His statements showed about sixty-five billion dollars that didn't exist.",
+   "He was sentenced to a hundred and fifty years in prison."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "ltcm-prix-nobel.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/ltcm-prix-nobel.mp4",
+  "texte": null,
+  "script": [
+   "In 1994, a hedge fund launched with an all-star team.",
+   "Top Wall Street traders, and two economists who would soon win the Nobel Prize.",
+   "It was called Long-Term Capital Management.",
+   "Their computer models hunted tiny price differences between similar bonds.",
+   "Each bet earned very little, so they borrowed heavily to make it big.",
+   "At times, they had about twenty-five dollars of bets for every dollar of their own.",
+   "For a few years, it worked brilliantly: around forty percent a year.",
+   "But in 1998, Russia defaulted on its debt.",
+   "Panicked investors fled to the safest assets, and the price gaps grew instead of closing.",
+   "Borrowing turned small losses into giant ones: more than four billion dollars in a few months.",
+   "Fearing a chain reaction, the New York Fed brought banks together to rescue the fund.",
+   "Genius models, undone by too much borrowing."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "dividende.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/dividende.mp4",
+  "texte": null,
+  "script": [
+   "What if a company paid you just for owning a piece of it?",
+   "That's a dividend.",
+   "When a company makes a profit, it has two choices.",
+   "Keep the money to grow, or share some of it with its shareholders.",
+   "Say a company pays two dollars per share each year, and you own fifty shares.",
+   "That's a hundred dollars in your pocket, without selling anything.",
+   "But dividends are never guaranteed.",
+   "In bad years, companies can cut them, or stop them completely.",
+   "And on payment day, the share price usually drops by about the same amount.",
+   "The money just moved from the company to you.",
+   "Many investors reinvest their dividends to buy more shares, which then pay more dividends.",
+   "Slowly, the snowball grows."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "flechettes-contre-les-pros.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/flechettes-contre-les-pros.mp4",
+  "texte": null,
+  "script": [
+   "In 1973, an economist claimed a blindfolded monkey throwing darts could pick stocks as well as the experts.",
+   "The Wall Street Journal decided to test it.",
+   "From 1988, its staff threw darts at the stock pages.",
+   "Whatever the darts hit, they picked.",
+   "At the same time, professional investors picked their best ideas.",
+   "Six months later, they compared the results.",
+   "The contest ran for about fourteen years, and more than a hundred rounds.",
+   "So who won? The pros, more often.",
+   "But not by a landslide: the darts still won roughly four rounds out of ten.",
+   "And critics noted the pros' picks got a boost just from being published in the paper.",
+   "Paying a lot for expert picks? Make sure they beat a dart."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "liquidite.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/liquidite.mp4",
+  "texte": null,
+  "script": [
+   "You own a house worth three hundred thousand dollars, and you need cash tomorrow.",
+   "Good luck.",
+   "Selling a house can take months: visits, paperwork, negotiations.",
+   "And if you're in a hurry, you might have to drop the price.",
+   "Now imagine you own three hundred thousand dollars of a big company's shares.",
+   "You click sell, and it's done in seconds, at a price close to the last one.",
+   "That difference has a name: liquidity.",
+   "It's how quickly you can turn something into cash, without losing value.",
+   "Cash itself is the most liquid thing there is.",
+   "Houses, art, or shares of a tiny company are much less liquid.",
+   "But liquidity can vanish in a panic, when everyone wants to sell at once.",
+   "So always keep some cash for emergencies."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "lehman-brothers.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/lehman-brothers.mp4",
+  "texte": null,
+  "script": [
+   "Lehman Brothers had survived for over a hundred and fifty years.",
+   "Wars, crashes, the Great Depression.",
+   "But by 2008, it had bet heavily on American home loans, with lots of borrowed money.",
+   "When house prices fell, those bets turned toxic.",
+   "On Friday, September twelfth, top bankers were called to the New York Fed.",
+   "All weekend, they searched for a buyer.",
+   "Bank of America walked away. A British bank's deal fell through.",
+   "And the government refused to bail it out.",
+   "On Monday morning, Lehman filed for bankruptcy, the biggest in American history.",
+   "Employees walked out carrying their things in cardboard boxes.",
+   "Markets crashed, and panic spread around the world.",
+   "A hundred and fifty years, gone in one weekend."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "santa-claus-rally.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/santa-claus-rally.mp4",
+  "texte": null,
+  "script": [
+   "Does Santa Claus visit Wall Street?",
+   "Some traders think he does.",
+   "In 1972, Yale Hirsch spotted a pattern in his stock market almanac.",
+   "In the last five trading days of December and the first two of January, stocks tend to rise.",
+   "He called it the Santa Claus rally.",
+   "Since 1950, the American market has gone up in that window roughly three times out of four, by about one percent on average.",
+   "Why? Nobody knows for sure.",
+   "Holiday cheer, year-end bonuses, and quiet markets while many traders are on vacation.",
+   "But it's a tendency, not a promise.",
+   "Some years, Santa never shows up.",
+   "Hirsch even warned that when Santa skips Wall Street, the bears might come next.",
+   "So enjoy the rally, but don't build your plan on it."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "prix-des-12-jours-de-noel.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/prix-des-12-jours-de-noel.mp4",
+  "texte": null,
+  "script": [
+   "How much would the Twelve Days of Christmas really cost?",
+   "A bank actually calculates it, every year since 1984.",
+   "It's called the PNC Christmas Price Index.",
+   "A partridge in a pear tree, two turtle doves, all the way to twelve drummers drumming.",
+   "In 2025, one set of all those gifts cost over fifty-one thousand dollars.",
+   "Up four and a half percent in a single year.",
+   "But in the song, the gifts repeat every day.",
+   "That's three hundred and sixty-four gifts in total.",
+   "Buy them all, and the bill passes two hundred thousand dollars.",
+   "The fun part: it works like a tiny inflation index.",
+   "The dancers, pipers and drummers follow wages, while the birds follow food and pet prices.",
+   "So next time someone sings it, you'll know the price of love."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "perte-seche-de-noel.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/perte-seche-de-noel.mp4",
+  "texte": null,
+  "script": [
+   "Every Christmas, one economist sees billions of dollars disappear.",
+   "In 1993, Joel Waldfogel asked students a simple question about their gifts.",
+   "How much did it cost? And how much would you have paid for it yourself?",
+   "The answers didn't match.",
+   "On average, people valued their gifts somewhere between ten and thirty-three percent less than their price.",
+   "He called it the deadweight loss of Christmas.",
+   "Picture a fifty dollar sweater that you would only pay thirty dollars for.",
+   "Twenty dollars of value just vanished.",
+   "Gifts from distant relatives lost the most. Close friends and partners did better.",
+   "And cash? No loss at all, but it can feel a bit cold.",
+   "Of course, economics can't measure the feeling of being thought of.",
+   "So give smart: ask, listen, or make it personal."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "rudolph-une-pub.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/rudolph-une-pub.mp4",
+  "texte": null,
+  "script": [
+   "Rudolph the red-nosed reindeer wasn't born in a legend.",
+   "He was born in a marketing department.",
+   "In 1939, the Chicago store Montgomery Ward wanted a free Christmas booklet to bring families into its shops.",
+   "A copywriter named Robert May got the job.",
+   "He wrote about a misfit reindeer, mocked for his glowing nose, who ends up guiding Santa's sleigh.",
+   "That first year, the store gave away about two point four million copies.",
+   "But here's the twist: the story belonged to the company, not to May.",
+   "And May was deep in debt from his late wife's medical bills.",
+   "In 1947, the company's boss handed him the rights.",
+   "Two years later, May's brother-in-law turned it into a song.",
+   "It became one of the best-selling Christmas songs ever, and May finally got rich.",
+   "A free ad became a Christmas classic."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "coca-cola-et-le-pere-noel.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/coca-cola-et-le-pere-noel.mp4",
+  "texte": null,
+  "script": [
+   "Many people think Coca-Cola invented Santa's red suit.",
+   "It didn't.",
+   "Red-suited Santas already showed up in magazines and ads decades earlier.",
+   "But Coca-Cola did something powerful with him.",
+   "In the early 1930s, the company had a problem: people drank fewer cold sodas in winter.",
+   "So in 1931, it hired the artist Haddon Sundblom to paint Santa for its Christmas ads.",
+   "His Santa was warm, chubby and jolly, with rosy cheeks and a big white beard.",
+   "And he was often holding a bottle of Coke.",
+   "Sundblom kept painting him for more than thirty years.",
+   "Those ads ran everywhere, year after year.",
+   "So Coca-Cola didn't invent Santa, but its ads helped lock in the image most of us picture today.",
+   "That's the power of repetition in marketing."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "christmas-club.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/christmas-club.mp4",
+  "texte": null,
+  "script": [
+   "Imagine a savings account that paid you almost nothing and locked your money away for a whole year.",
+   "Sounds terrible, right?",
+   "Yet millions of Americans signed up for one.",
+   "It was called a Christmas Club.",
+   "The idea is usually traced back to a bank in Pennsylvania around 1909.",
+   "You put in a small fixed amount every week, like one dollar.",
+   "You couldn't touch it until late November.",
+   "And the interest was tiny, sometimes zero.",
+   "But that was the point.",
+   "People knew that money sitting in their pocket would disappear.",
+   "The club removed the temptation.",
+   "Economists call this a commitment device: you tie your own hands today to help your future self.",
+   "So when December came, the gift money was already there.",
+   "Sometimes the best financial tool is the one that stops you from spending."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "cartes-cadeaux-oubliees.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/cartes-cadeaux-oubliees.mp4",
+  "texte": null,
+  "script": [
+   "Every Christmas, millions of people get a gift card.",
+   "And a lot of them never get spent.",
+   "Surveys suggest nearly half of American adults have at least one unused gift card, worth billions of dollars in total.",
+   "The card gets lost in a drawer.",
+   "Or there are five dollars left, too little to bother.",
+   "Or the store closes before you use it.",
+   "For the shop, this is great news.",
+   "It already has your money.",
+   "The unspent part even has a name: breakage.",
+   "Companies estimate how much will never be used and count it as revenue.",
+   "So a gift card is cash that slowly forgets it exists.",
+   "If you get one this Christmas, spend it in January, before it becomes a gift to the store."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "ventes-de-decembre.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/ventes-de-decembre.mp4",
+  "texte": null,
+  "script": [
+   "For many stores, the whole year is decided in just two months.",
+   "In the US, November and December bring in roughly a fifth of all retail sales for the year.",
+   "For toy shops, it can be even more.",
+   "That's why the day after Thanksgiving is called Black Friday.",
+   "You've probably heard the story: it's the day stores stop losing money, in the red, and start making money, in the black.",
+   "Nice story.",
+   "But the name most likely came from Philadelphia police in the 1960s.",
+   "They hated that day: huge crowds, traffic jams, total chaos.",
+   "Stores later preferred the profit version, and it stuck.",
+   "Either way, the lesson is real.",
+   "When a business depends on one season, a bad December can ruin the whole year.",
+   "So next time a shop screams last chance, remember who really needs that sale."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "sapin-et-patience.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/sapin-et-patience.mp4",
+  "texte": null,
+  "script": [
+   "The Christmas tree in your living room is probably older than you think.",
+   "A typical farm tree takes around seven to ten years to grow to about two meters.",
+   "The farmer plants a tiny seedling, and waits.",
+   "Year one: almost nothing.",
+   "Year three: still small.",
+   "No harvest, no money, just watering, trimming and protecting it.",
+   "Then, after years of patience, it finally becomes a full tree worth selling.",
+   "Investing works a bit like that.",
+   "At first, your money barely seems to grow.",
+   "Many people quit right there.",
+   "But growth builds on growth, and the later years do most of the work.",
+   "So if you want a tree for Christmas in ten years, the best time to plant it is today."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "100-dollars-actions-ou-jouet.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/100-dollars-actions-ou-jouet.mp4",
+  "texte": null,
+  "script": [
+   "This Christmas, a kid gets a one hundred dollar toy.",
+   "By February, it's under the bed.",
+   "Now imagine the same hundred dollars put into a simple index fund instead.",
+   "If it grew around seven percent a year, which is never guaranteed, by age eighteen it could be worth about three hundred and forty dollars.",
+   "Do that every Christmas, and eighteen gifts of one hundred dollars could grow to around three thousand six hundred.",
+   "That's double what you put in.",
+   "The secret isn't the amount.",
+   "It's time.",
+   "A child has the one thing most adults wish they had more of: decades ahead.",
+   "You don't have to skip the toy.",
+   "But one small gift can keep growing long after the wrapping paper is gone."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "regle-de-72.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/regle-de-72.mp4",
+  "texte": null,
+  "script": [
+   "How long does it take to double your money?",
+   "There's a shortcut.",
+   "It's called the rule of seventy-two.",
+   "Take seventy-two and divide it by your yearly return.",
+   "At six percent a year, your money doubles in about twelve years.",
+   "At nine percent, about eight years.",
+   "At two percent, like a sleepy savings account, about thirty-six years.",
+   "It also works backwards.",
+   "If prices rise three percent a year, your money loses half its value in about twenty-four years.",
+   "And if a credit card charges twenty-four percent and you never pay, the debt doubles in about three years.",
+   "It's not perfectly exact, but it's close enough to do in your head.",
+   "Seventy-two: the tiny number that shows how fast money grows, or melts."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "inflation.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/inflation.mp4",
+  "texte": null,
+  "script": [
+   "Your money is shrinking, even when the number stays the same.",
+   "That's inflation.",
+   "Imagine a sandwich costs five dollars today.",
+   "If prices rise three percent a year, in ten years the same sandwich costs about six dollars seventy.",
+   "Your five dollar bill didn't change.",
+   "But it buys less.",
+   "Why does it happen?",
+   "Often, when more money chases the same amount of stuff, prices go up.",
+   "A little inflation, around two percent, is actually what many central banks aim for.",
+   "Too much is a disaster: just ask Germany in 1923, or Zimbabwe in 2008.",
+   "So cash under the mattress isn't really safe.",
+   "It's slowly melting.",
+   "That's why people invest: not only to get rich, but to keep up."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "aversion-a-la-perte.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/aversion-a-la-perte.mp4",
+  "texte": null,
+  "script": [
+   "Let's flip a coin.",
+   "Heads, you win one hundred and fifty dollars.",
+   "Tails, you lose one hundred.",
+   "On average, that's a good bet.",
+   "Yet most people say no.",
+   "That's loss aversion.",
+   "Psychologists Daniel Kahneman and Amos Tversky found that losing feels roughly twice as bad as winning the same amount feels good.",
+   "It explains a lot.",
+   "Why people panic and sell when the market drops.",
+   "Why they hold a losing stock forever, just hoping to get even.",
+   "And why so much cash sits in savings accounts instead of being invested.",
+   "Your brain is built to avoid pain, not to grow your money.",
+   "Knowing that is the first step to beating it."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "biais-du-survivant.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/biais-du-survivant.mp4",
+  "texte": null,
+  "script": [
+   "During World War Two, the US military had a problem.",
+   "Too many bombers were being shot down.",
+   "So they studied the planes that came back, covered in bullet holes.",
+   "Most holes were on the wings and the body.",
+   "The obvious idea: add armor where the holes are.",
+   "But, as the famous story goes, a statistician named Abraham Wald said the opposite.",
+   "Put armor where there are no holes.",
+   "Why?",
+   "Because planes hit in those spots, like the engines, never made it back.",
+   "That's survivorship bias: you only see the winners.",
+   "It happens in finance all the time.",
+   "You hear about the guy who got rich on one coin, not the thousands who lost.",
+   "And funds that did badly often get closed, so the ones still around look better than average.",
+   "Before you copy a success story, ask: who didn't make it back?"
+  ],
+  "config": null
+ },
+ {
+  "fichier": "fonds-d-urgence.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/fonds-d-urgence.mp4",
+  "texte": null,
+  "script": [
+   "Your car breaks down.",
+   "The repair costs eight hundred dollars.",
+   "Where does that money come from?",
+   "For many people, it goes on a credit card, at twenty percent interest or more.",
+   "Now a small problem has become a growing debt.",
+   "That's why people talk about an emergency fund.",
+   "It's money set aside only for surprises: a broken phone, a medical bill, losing your job.",
+   "A common rule of thumb is three to six months of essential expenses.",
+   "Keep it somewhere safe and easy to reach, like a savings account, not in the stock market.",
+   "It won't make you rich.",
+   "Its job is different.",
+   "It turns a disaster into an inconvenience.",
+   "And it lets your investments keep growing, instead of selling them at the worst moment."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "les-obligations.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/les-obligations.mp4",
+  "texte": null,
+  "script": [
+   "What is a bond?",
+   "Simple: it's a loan, but this time you're the bank.",
+   "A company or a government needs money.",
+   "So it borrows from you.",
+   "Say you lend one thousand dollars for five years.",
+   "Every year, they pay you interest, called the coupon, maybe forty dollars.",
+   "At the end of the five years, you get your thousand back.",
+   "That's why bonds are usually calmer than stocks.",
+   "But they're not risk free.",
+   "If the borrower goes bankrupt, you might not get all your money back.",
+   "And if interest rates rise, older bonds that pay less become less attractive, so their price drops.",
+   "Stocks make you an owner.",
+   "Bonds make you a lender.",
+   "Many investors hold both, to balance growth and calm."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "folie-de-bogle.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/folie-de-bogle.mp4",
+  "texte": null,
+  "script": [
+   "In 1976, a man named John Bogle launched a strange fund.",
+   "It didn't try to pick winning stocks.",
+   "It simply bought the whole market, the five hundred biggest US companies, and kept costs tiny.",
+   "Wall Street laughed.",
+   "People called it Bogle's folly.",
+   "One poster even claimed index funds were un-American.",
+   "He hoped to raise about one hundred fifty million dollars.",
+   "He got around eleven million.",
+   "But his idea was simple: most professional managers fail to beat the market over time, especially after fees.",
+   "So why pay them?",
+   "Decades later, nobody was laughing.",
+   "Index funds now hold trillions of dollars, and that once mocked fund grew into one of the biggest in the world.",
+   "Sometimes the boring idea wins."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "origine-de-wall-street.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/origine-de-wall-street.mp4",
+  "texte": null,
+  "script": [
+   "Why is it called Wall Street?",
+   "Because there really was a wall.",
+   "In the sixteen hundreds, New York was a small Dutch town called New Amsterdam.",
+   "Around 1653, the settlers built a wooden wall on its northern edge, to protect it.",
+   "The path running along it became known as Wall Street.",
+   "The British later tore the wall down, but the name stayed.",
+   "Then, in 1792, twenty four brokers met under a buttonwood tree on that street.",
+   "They signed a short agreement on how to trade with each other.",
+   "That deal is often seen as the birth of what became the New York Stock Exchange.",
+   "So the most famous financial street in the world is named after a wooden fence.",
+   "And it all started with two dozen guys under a tree."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "premier-papier-monnaie.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/premier-papier-monnaie.mp4",
+  "texte": null,
+  "script": [
+   "Imagine paying for groceries with a sack of iron coins.",
+   "That was daily life in parts of China about a thousand years ago.",
+   "In Sichuan, coins were made of iron, so a simple purchase could weigh several kilos.",
+   "So merchants had an idea.",
+   "Leave your heavy coins with us, and we'll give you a paper receipt.",
+   "People started trading the receipts themselves.",
+   "They were called jiaozi.",
+   "Around 1023, the Song government took control and issued official paper money, one of the first in the world.",
+   "Centuries later, Marco Polo was amazed that people accepted paper as payment.",
+   "But there was a catch.",
+   "When rulers needed money, they printed more and more, and prices exploded.",
+   "Paper money was a brilliant invention.",
+   "And so was the temptation to print too much."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "voc-premiere-action.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/voc-premiere-action.mp4",
+  "texte": null,
+  "script": [
+   "In 1602, sailing to Asia for spices was a huge gamble.",
+   "Ships could sink, get attacked, or never come back.",
+   "One voyage could make you rich, or wipe you out.",
+   "So the Dutch created something new: the Dutch East India Company, the VOC.",
+   "Instead of a few rich men funding one trip, ordinary people could buy a small piece of the whole company.",
+   "Maids, merchants, craftsmen: more than a thousand people bought in, in Amsterdam alone.",
+   "If one ship sank, the company kept going.",
+   "And if you needed your money, you could sell your share to someone else.",
+   "People traded these shares in Amsterdam, in one of the first stock exchanges.",
+   "Early on, some dividends were even paid in spices.",
+   "That's why the VOC is often called the first company to sell shares to the public.",
+   "Every share you own today carries a little bit of that Dutch idea."
+  ],
+  "config": null
  }
 ]
