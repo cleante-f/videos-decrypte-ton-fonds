@@ -1314,5 +1314,26 @@
    "Avant de copier une success story, demande-toi : qui n'est pas revenu ?"
   ],
   "config": null
+ },
+ {
+  "fichier": "fonds-d-urgence.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/fr-lot-3/fonds-d-urgence.mp4",
+  "texte": null,
+  "script": [
+   "Ta voiture tombe en panne.",
+   "La réparation coûte 800 €.",
+   "D'où vient cet argent ?",
+   "Pour beaucoup de gens, c'est un crédit à la consommation, à 20 % d'intérêt ou plus.",
+   "Et un petit problème devient une dette qui grossit.",
+   "C'est pour ça qu'on parle d'épargne de précaution.",
+   "C'est de l'argent mis de côté uniquement pour les surprises : un téléphone cassé, une facture médicale, une perte d'emploi.",
+   "Une règle courante, c'est 3 à 6 mois de dépenses essentielles.",
+   "Garde-le dans un endroit sûr et facile d'accès, comme un livret, pas en Bourse.",
+   "Il ne te rendra pas riche.",
+   "Son rôle est différent.",
+   "Il transforme une catastrophe en simple contretemps.",
+   "Et il laisse tes placements grandir, au lieu de les vendre au pire moment."
+  ],
+  "config": null
  }
 ]
