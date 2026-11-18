@@ -1335,5 +1335,27 @@
    "Et il laisse tes placements grandir, au lieu de les vendre au pire moment."
   ],
   "config": null
+ },
+ {
+  "fichier": "les-obligations.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/fr-lot-3/les-obligations.mp4",
+  "texte": null,
+  "script": [
+   "C'est quoi, une obligation ?",
+   "Simple : c'est un prêt, mais cette fois, c'est toi la banque.",
+   "Une entreprise ou un État a besoin d'argent.",
+   "Alors il t'emprunte.",
+   "Disons que tu prêtes 1 000 € pour 5 ans.",
+   "Chaque année, on te verse des intérêts, appelés le coupon, peut-être 40 €.",
+   "Au bout des 5 ans, tu récupères tes 1 000.",
+   "C'est pour ça que les obligations sont en général plus calmes que les actions.",
+   "Mais elles ne sont pas sans risque.",
+   "Si l'emprunteur fait faillite, tu pourrais ne pas récupérer tout ton argent.",
+   "Et si les taux d'intérêt montent, les anciennes obligations qui rapportent moins attirent moins, donc leur prix baisse.",
+   "Les actions font de toi un propriétaire.",
+   "Les obligations font de toi un prêteur.",
+   "Beaucoup d'investisseurs ont les deux, pour équilibrer croissance et calme."
+  ],
+  "config": null
  }
 ]
