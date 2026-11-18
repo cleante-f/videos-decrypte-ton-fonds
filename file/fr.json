@@ -1292,5 +1292,27 @@
    "Le savoir, c'est le premier pas pour le battre."
   ],
   "config": null
+ },
+ {
+  "fichier": "biais-du-survivant.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/fr-lot-3/biais-du-survivant.mp4",
+  "texte": null,
+  "script": [
+   "Pendant la Seconde Guerre mondiale, l'armée américaine avait un problème.",
+   "Trop de bombardiers étaient abattus.",
+   "Alors elle a étudié les avions qui revenaient, criblés de balles.",
+   "La plupart des trous étaient sur les ailes et le fuselage.",
+   "L'idée évidente : ajouter du blindage là où sont les trous.",
+   "Mais, selon l'histoire célèbre, un statisticien, Abraham Wald, a dit l'inverse.",
+   "Mettez du blindage là où il n'y a pas de trous.",
+   "Pourquoi ?",
+   "Parce que les avions touchés à ces endroits, comme les moteurs, ne revenaient jamais.",
+   "C'est le biais du survivant : tu ne vois que les gagnants.",
+   "En finance, ça arrive tout le temps.",
+   "Tu entends parler du gars devenu riche avec une crypto, pas des milliers qui ont perdu.",
+   "Et les fonds qui ont mal fait sont souvent fermés, donc ceux qui restent ont l'air meilleurs que la moyenne.",
+   "Avant de copier une success story, demande-toi : qui n'est pas revenu ?"
+  ],
+  "config": null
  }
 ]
