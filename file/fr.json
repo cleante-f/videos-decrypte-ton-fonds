@@ -1230,5 +1230,25 @@
    "Mais un petit cadeau peut continuer de grandir longtemps après que le papier cadeau a disparu."
   ],
   "config": null
+ },
+ {
+  "fichier": "regle-de-72.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/fr-lot-3/regle-de-72.mp4",
+  "texte": null,
+  "script": [
+   "Combien de temps faut-il pour doubler ton argent ?",
+   "Il y a un raccourci.",
+   "Ça s'appelle la règle de 72.",
+   "Prends 72 et divise-le par ton rendement annuel.",
+   "À 6 % par an, ton argent double en 12 ans environ.",
+   "À 9 %, en 8 ans environ.",
+   "À 2 %, comme un livret qui somnole, en 36 ans environ.",
+   "Ça marche aussi à l'envers.",
+   "Si les prix montent de 3 % par an, ton argent perd la moitié de sa valeur en 24 ans environ.",
+   "Et si une carte de crédit te prend 24 % et que tu ne rembourses jamais, la dette double en 3 ans environ.",
+   "Ce n'est pas parfaitement exact, mais c'est assez proche pour le faire de tête.",
+   "72 : le petit nombre qui montre à quelle vitesse l'argent grossit, ou fond."
+  ],
+  "config": null
  }
 ]
