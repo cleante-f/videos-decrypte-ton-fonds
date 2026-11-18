@@ -1250,5 +1250,26 @@
    "72 : le petit nombre qui montre à quelle vitesse l'argent grossit, ou fond."
   ],
   "config": null
+ },
+ {
+  "fichier": "inflation.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/fr-lot-3/inflation.mp4",
+  "texte": null,
+  "script": [
+   "Ton argent rétrécit, même quand le chiffre reste le même.",
+   "C'est l'inflation.",
+   "Imagine qu'un sandwich coûte 5 € aujourd'hui.",
+   "Si les prix montent de 3 % par an, dans 10 ans le même sandwich coûte environ 6,70 €.",
+   "Ton billet de 5 € n'a pas changé.",
+   "Mais il achète moins.",
+   "Pourquoi ça arrive ?",
+   "Souvent, quand plus d'argent court après la même quantité de choses, les prix montent.",
+   "Un peu d'inflation, autour de 2 %, c'est même l'objectif de beaucoup de banques centrales.",
+   "Trop, c'est la catastrophe : demande à l'Allemagne de 1923, ou au Zimbabwe de 2008.",
+   "Les billets sous le matelas ne sont donc pas vraiment en sécurité.",
+   "Ils fondent doucement.",
+   "C'est pour ça qu'on investit : pas seulement pour s'enrichir, mais pour suivre le rythme."
+  ],
+  "config": null
  }
 ]
