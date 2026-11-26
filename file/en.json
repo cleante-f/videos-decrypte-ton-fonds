@@ -1764,5 +1764,24 @@
    "A bank runs on trust. And trust can now leave at the speed of a text."
   ],
   "config": null
+ },
+ {
+  "fichier": "northern-rock-bank-run.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/northern-rock-bank-run.mp4",
+  "texte": null,
+  "script": [
+   "What if people queued for hours outside a bank, just to get their own money back?",
+   "Northern Rock is a fast-growing British mortgage bank.",
+   "It even offers loans worth up to a hundred and twenty-five percent of a home's value.",
+   "To fund all that lending, it borrows short-term money from other banks, again and again.",
+   "In August 2007, that money suddenly dries up. Banks stop trusting each other.",
+   "Northern Rock asks the Bank of England for emergency help.",
+   "The news comes out. And people do the logical thing: they rush to the bank.",
+   "Long queues form outside branches across the country.",
+   "It's the first run on a British bank in more than a century.",
+   "The government guarantees deposits, and in 2008, takes over the bank.",
+   "A bank can be fine on paper and still fall, if it can't borrow tomorrow."
+  ],
+  "config": null
  }
 ]
