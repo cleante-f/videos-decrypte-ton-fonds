@@ -3341,5 +3341,24 @@
    "Watch jobs and spending, not just the headlines."
   ],
   "config": null
+ },
+ {
+  "fichier": "gdp-misses-what-matters.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/gdp-misses-what-matters.mp4",
+  "texte": null,
+  "script": [
+   "What if the number used to measure a country's success misses what matters most?",
+   "In 1968, Robert Kennedy gave a speech about gross national product, a close cousin of GDP.",
+   "He pointed out that it counts air pollution, cigarette ads and special locks for our doors.",
+   "It counts the destruction of forests, and the jails we build.",
+   "But it doesn't count the health of our children or the joy of their play.",
+   "It doesn't count the beauty of poetry, or the strength of marriages.",
+   "He said it measures everything, except that which makes life worthwhile.",
+   "Even the economists who created GDP warned it was not a measure of well-being.",
+   "Unpaid work at home, like cooking or caring for family, isn't counted at all.",
+   "That's why some countries now also track happiness, health and the environment.",
+   "GDP tells you how big an economy is. Not how good life is inside it."
+  ],
+  "config": null
  }
 ]
