@@ -2600,5 +2600,24 @@
    "Markets don't just need money. They need rules people trust."
   ],
   "config": null
+ },
+ {
+  "fichier": "dow-jones-original-12.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/dow-jones-original-12.mp4",
+  "texte": null,
+  "script": [
+   "What if none of the original companies in America's most famous stock index were still in it?",
+   "1896. Journalist Charles Dow creates an index to show how the stock market is doing.",
+   "He picks twelve big industrial companies. Sugar, tobacco, cotton oil, leather, rubber, gas.",
+   "The math is simple: add up their stock prices, then divide by twelve. Done by hand.",
+   "The very first value: about forty-one.",
+   "Over the years, companies are replaced as the economy changes.",
+   "Leather and cotton oil give way to cars, then computers, then software.",
+   "The last original member, General Electric, is removed in 2018.",
+   "Today the Dow is above forty thousand, made of companies that didn't exist in 1896.",
+   "The index survives because it keeps replacing the losers.",
+   "Betting on one company is risky. Betting on the economy changing has worked better."
+  ],
+  "config": null
  }
 ]
