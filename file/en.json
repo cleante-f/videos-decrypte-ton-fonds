@@ -1726,5 +1726,24 @@
    "If you can't see where your money is, assume you don't know."
   ],
   "config": null
+ },
+ {
+  "fichier": "terra-luna-collapse.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/terra-luna-collapse.mp4",
+  "texte": null,
+  "script": [
+   "What if a coin designed to always be worth one dollar dropped to almost nothing?",
+   "TerraUSD is a stablecoin. One coin is supposed to equal one dollar.",
+   "But there's no dollar in a vault behind it. Just an algorithm and a sister coin, Luna.",
+   "The idea: if the price slips, the system swaps it for newly created Luna, to push it back up.",
+   "And a savings app on Terra pays almost twenty percent a year. Billions pour in.",
+   "In May 2022, big withdrawals push TerraUSD below one dollar.",
+   "The system creates more and more Luna to defend the peg.",
+   "Luna floods the market, and its price collapses.",
+   "Within days, Luna goes from around eighty dollars to a tiny fraction of a cent.",
+   "About forty billion dollars in value disappears.",
+   "When something promises safety and twenty percent, ask what's really holding it up."
+  ],
+  "config": null
  }
 ]
