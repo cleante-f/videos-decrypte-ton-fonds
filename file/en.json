@@ -1688,5 +1688,24 @@
    "Sometimes your rival is worth more to you alive than dead."
   ],
   "config": null
+ },
+ {
+  "fichier": "mt-gox-850000-bitcoins.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/mt-gox-850000-bitcoins.mp4",
+  "texte": null,
+  "script": [
+   "What if the world's biggest Bitcoin exchange started as a site for trading game cards?",
+   "Mt. Gox stands for Magic: The Gathering Online eXchange.",
+   "In 2010, it's turned into a Bitcoin exchange, run from Tokyo.",
+   "By 2013, it handles most of the world's Bitcoin trading.",
+   "But behind the scenes, coins have been quietly disappearing for years.",
+   "In February 2014, withdrawals suddenly stop.",
+   "About eight hundred fifty thousand bitcoins are missing.",
+   "Some two hundred thousand are later found in an old wallet.",
+   "Customers wait ten years before the first repayments start.",
+   "The lesson? Coins left on an exchange are only as safe as the exchange.",
+   "Not your keys, not your coins."
+  ],
+  "config": null
  }
 ]
