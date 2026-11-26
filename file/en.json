@@ -2752,5 +2752,24 @@
    "Before you decide what's a good price, ask: compared to what?"
   ],
   "config": null
+ },
+ {
+  "fichier": "decoy-effect.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/decoy-effect.mp4",
+  "texte": null,
+  "script": [
+   "What if adding an option nobody wants made people spend more?",
+   "Economist Dan Ariely found a strange subscription offer from The Economist magazine.",
+   "Online only: fifty-nine dollars. Print only: one hundred twenty-five dollars. Print and online: also one hundred twenty-five dollars.",
+   "Who would choose print only, when print and online cost the same? Nobody.",
+   "He tested it on a hundred students. Sixteen chose online. Eighty-four chose print and online. Zero chose print only.",
+   "Then he removed the useless option.",
+   "Suddenly, sixty-eight chose the cheap online version. Only thirty-two picked the expensive one.",
+   "The useless option wasn't there to be chosen. It was there to make the expensive one look like a bargain.",
+   "It's called the decoy effect. You see it with popcorn sizes, coffee cups and phone plans.",
+   "The medium is often priced just close enough to the large to push you up.",
+   "When a choice looks obvious, check if an option was added just to steer you."
+  ],
+  "config": null
  }
 ]
