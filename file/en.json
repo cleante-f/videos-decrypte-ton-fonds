@@ -3170,5 +3170,24 @@
    "In markets, an edge everyone knows about rarely stays an edge."
   ],
   "config": null
+ },
+ {
+  "fichier": "short-selling.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/short-selling.mp4",
+  "texte": null,
+  "script": [
+   "What if you could make money when a stock goes down?",
+   "That's called short selling.",
+   "First, you borrow shares from a broker, and sell them right away.",
+   "Say you sell one share at one hundred dollars.",
+   "If the price falls to sixty, you buy it back and return the share.",
+   "You keep the forty dollar difference, minus fees and interest.",
+   "But if the price rises instead, you lose money.",
+   "And since a price can keep rising with no ceiling, your possible loss has no limit.",
+   "If many short sellers rush to buy back at once, the price can explode. That's a short squeeze.",
+   "It's part of what sent one video game retailer's stock soaring in early 2021.",
+   "Short selling can be useful, but it's one of the riskiest bets in investing."
+  ],
+  "config": null
  }
 ]
