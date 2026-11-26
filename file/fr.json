@@ -1627,5 +1627,290 @@
    "Parfois, ton rival te rapporte plus vivant que mort."
   ],
   "config": null
+ },
+ {
+  "fichier": "mt-gox-850000-bitcoins.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/fr-lot-3/mt-gox-850000-bitcoins.mp4",
+  "texte": null,
+  "script": [
+   "Et si la plus grosse plateforme de bitcoins du monde avait commencé comme un site d'échange de cartes de jeu ?",
+   "Mt. Gox veut dire Magic: The Gathering Online eXchange.",
+   "En 2010, le site devient une plateforme d'échange de bitcoins, basée à Tokyo.",
+   "En 2013, elle gère la plupart des échanges de bitcoins dans le monde.",
+   "Mais en coulisses, des bitcoins disparaissent discrètement depuis des années.",
+   "En février 2014, les retraits s'arrêtent d'un coup.",
+   "Environ 850 000 bitcoins ont disparu.",
+   "Quelque 200 000 sont retrouvés plus tard dans un vieux portefeuille.",
+   "Les clients attendent 10 ans avant les premiers remboursements.",
+   "La leçon ? Des bitcoins laissés sur une plateforme ne sont pas plus en sécurité que la plateforme.",
+   "Pas tes clés, pas tes bitcoins."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "ftx-collapse.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/fr-lot-3/ftx-collapse.mp4",
+  "texte": null,
+  "script": [
+   "Et si une entreprise à 32 milliards de dollars disparaissait en une semaine environ ?",
+   "FTX est une plateforme de cryptos fondée en 2019 par Sam Bankman-Fried.",
+   "Début 2022, elle est valorisée 32 milliards de dollars, avec des pubs au Super Bowl et des célébrités pour fans.",
+   "En novembre 2022, un article révèle que sa société sœur, Alameda, tient debout grâce au propre jeton de FTX.",
+   "Puis une plateforme rivale annonce qu'elle se débarrasse de ce jeton.",
+   "Panique. En quelques jours, les clients se ruent pour retirer des milliards.",
+   "Mais l'argent n'est pas là. Les dépôts des clients avaient été utilisés en secret par Alameda.",
+   "Le 11 novembre, FTX se déclare en faillite.",
+   "En 2024, Bankman-Fried est condamné à 25 ans de prison.",
+   "Des pubs célèbres et une énorme valorisation ne prouvent rien.",
+   "Si tu ne vois pas où est ton argent, pars du principe que tu ne sais pas."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "terra-luna-collapse.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/fr-lot-3/terra-luna-collapse.mp4",
+  "texte": null,
+  "script": [
+   "Et si une crypto conçue pour toujours valoir 1 dollar tombait presque à zéro ?",
+   "TerraUSD est un stablecoin. Un jeton est censé valoir 1 dollar.",
+   "Mais il n'y a aucun dollar dans un coffre derrière. Juste un algorithme et une crypto sœur, Luna.",
+   "L'idée : si le prix glisse, le système l'échange contre des Luna fraîchement créés, pour le faire remonter.",
+   "Et une appli d'épargne sur Terra rapporte presque 20 % par an. Les milliards affluent.",
+   "En mai 2022, de gros retraits font passer TerraUSD sous 1 dollar.",
+   "Le système crée de plus en plus de Luna pour défendre la parité.",
+   "Les Luna inondent le marché, et leur prix s'effondre.",
+   "En quelques jours, le Luna passe d'environ 80 dollars à une infime fraction de centime.",
+   "Environ 40 milliards de dollars de valeur disparaissent.",
+   "Quand quelque chose promet la sécurité et 20 %, demande-toi ce qui le tient vraiment debout."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "silicon-valley-bank-run.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/fr-lot-3/silicon-valley-bank-run.mp4",
+  "texte": null,
+  "script": [
+   "Et si une banque s'effondrait en moins de deux jours à cause d'un groupe de discussion ?",
+   "La Silicon Valley Bank est la banque des start-up de la tech.",
+   "En 2020 et 2021, les dépôts affluent, et la banque les place dans des obligations d'État longues et sûres.",
+   "Sûres, sauf si les taux d'intérêt montent. Et en 2022, ils montent vite.",
+   "Les nouvelles obligations rapportent plus, alors les anciennes perdent de la valeur. La banque est assise sur d'énormes pertes cachées.",
+   "Le 8 mars 2023, elle annonce une perte et demande de l'argent frais.",
+   "Les fondateurs s'envoient des messages : retirez votre argent.",
+   "Le lendemain, les clients essaient de retirer 42 milliards de dollars.",
+   "Le 10 mars, les autorités ferment la banque.",
+   "La plupart des dépôts dépassaient le plafond de garantie de 250 000 dollars.",
+   "Une banque tient grâce à la confiance. Et la confiance peut maintenant partir à la vitesse d'un SMS."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "northern-rock-bank-run.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/fr-lot-3/northern-rock-bank-run.mp4",
+  "texte": null,
+  "script": [
+   "Et si des gens faisaient la queue pendant des heures devant une banque, juste pour récupérer leur propre argent ?",
+   "Northern Rock est une banque britannique de crédit immobilier en pleine croissance.",
+   "Elle prête même jusqu'à 125 % de la valeur d'une maison.",
+   "Pour financer tous ces prêts, elle emprunte de l'argent à court terme à d'autres banques, encore et encore.",
+   "En août 2007, cet argent se tarit d'un coup. Les banques ne se font plus confiance.",
+   "Northern Rock demande une aide d'urgence à la Banque d'Angleterre.",
+   "La nouvelle sort. Et les gens font la chose logique : ils se ruent à la banque.",
+   "De longues files se forment devant les agences de tout le pays.",
+   "C'est la première panique bancaire britannique depuis plus d'un siècle.",
+   "Le gouvernement garantit les dépôts, et en 2008, il prend le contrôle de la banque.",
+   "Une banque peut aller bien sur le papier et tomber quand même, si elle ne peut plus emprunter demain."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "theranos-9-billion-lie.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/fr-lot-3/theranos-9-billion-lie.mp4",
+  "texte": null,
+  "script": [
+   "Et si une entreprise à 9 milliards de dollars reposait sur une machine qui ne marchait pas vraiment ?",
+   "En 2003, Elizabeth Holmes, 19 ans, quitte Stanford pour lancer Theranos.",
+   "La promesse : des centaines d'analyses médicales avec juste quelques gouttes de sang.",
+   "Les investisseurs adorent. D'anciens ministres rejoignent le conseil d'administration.",
+   "En 2014, Theranos est valorisée 9 milliards de dollars.",
+   "Mais en interne, la machine n'arrête pas de tomber en panne.",
+   "La plupart des analyses sont faites en secret sur des machines de laboratoire classiques, achetées à d'autres entreprises.",
+   "En 2015, un journaliste du Wall Street Journal révèle la vérité.",
+   "La valeur tombe à zéro. En 2022, Holmes est reconnue coupable d'avoir escroqué ses investisseurs.",
+   "Les grands noms du conseil n'avaient pas vérifié la science.",
+   "Avant d'investir, demande à voir que ça marche. Pas juste à l'entendre."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "crash-of-1929.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/fr-lot-3/crash-of-1929.mp4",
+  "texte": null,
+  "script": [
+   "Et si tu pouvais acheter des actions surtout avec de l'argent emprunté ? En 1929, des millions de gens l'ont fait.",
+   "Ce sont les Années folles. Voitures, radios, électricité. Les actions semblent ne faire que monter.",
+   "On peut acheter des actions avec seulement 10 % de son propre argent. Le courtier prête le reste.",
+   "En septembre 1929, le Dow Jones atteint un record : 381 points.",
+   "Puis les prix commencent à glisser. Et les courtiers réclament leur argent.",
+   "Pour payer, les investisseurs sont obligés de vendre. Ce qui fait baisser les prix. Ce qui force à vendre encore.",
+   "Les 28 et 29 octobre, la Bourse perd plus de 20 % en deux jours.",
+   "En 1932, le Dow Jones a perdu environ 89 %.",
+   "Des milliers de banques font faillite. Un travailleur américain sur quatre perd son emploi.",
+   "Le Dow Jones ne retrouvera son sommet de 1929 qu'en 1954. 25 ans plus tard.",
+   "L'argent emprunté accélère le trajet, dans les deux sens."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "kennedy-shoeshine-boy.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/fr-lot-3/kennedy-shoeshine-boy.mp4",
+  "texte": null,
+  "script": [
+   "Et si un cireur de chaussures avait sauvé un homme du krach de 1929 ?",
+   "Joseph Kennedy, père d'un futur président, est un riche investisseur de Wall Street.",
+   "Un jour de 1929, il s'arrête pour faire cirer ses chaussures.",
+   "Et le garçon commence à lui donner des tuyaux sur la Bourse.",
+   "Selon l'histoire, Kennedy se dit : si même les cireurs de chaussures parient en Bourse, il ne reste plus personne pour acheter.",
+   "Alors il vend une grande partie de ses actions.",
+   "Quelques mois plus tard, la Bourse s'effondre. Kennedy garde sa fortune.",
+   "Les historiens disent que l'histoire est peut-être enjolivée, mais l'idée est restée.",
+   "En 1934, Kennedy devient le premier patron du nouveau gendarme de la Bourse américaine, la SEC.",
+   "Aujourd'hui, on parle encore du signal du cireur de chaussures.",
+   "Quand tout le monde autour de toi donne des tuyaux sur la Bourse, c'est peut-être le moment d'être prudent."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "beanie-babies-bubble.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/fr-lot-3/beanie-babies-bubble.mp4",
+  "texte": null,
+  "script": [
+   "Et si une peluche à 5 dollars devenait un plan retraite ?",
+   "À la fin des années 90, l'Amérique devient folle des Beanie Babies.",
+   "Elles coûtent environ 5 dollars en magasin. Mais le fabricant a une astuce.",
+   "Il arrête des modèles sans prévenir. D'un coup, une peluche devient rare.",
+   "Les collectionneurs en achètent comme placement. Des guides de prix prédisent leur valeur des années à l'avance.",
+   "Certaines se vendent des centaines, voire des milliers de dollars sur un nouveau site appelé eBay.",
+   "Lors d'un divorce à Las Vegas, une juge aurait partagé la collection d'un couple à même le sol du tribunal.",
+   "Mais il y a un problème : tout le monde les garde comme neuves. Des millions.",
+   "Rien n'est rare si tout le monde le garde.",
+   "Vers 1999, la mode passe et les prix s'effondrent. La plupart valent quelques dollars aujourd'hui.",
+   "Une rareté créée par le marketing, ce n'est pas une vraie valeur."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "florida-land-boom-1925.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/fr-lot-3/florida-land-boom-1925.mp4",
+  "texte": null,
+  "script": [
+   "Et si des gens achetaient des terrains en Floride sans jamais les voir, et que certains étaient sous l'eau ?",
+   "Dans les années 1920, les voitures et les nouvelles routes font de la Floride la destination de rêve.",
+   "Le prix des terrains commence à grimper. Puis il explose.",
+   "Les acheteurs n'ont besoin que d'environ 10 % d'acompte pour réserver un terrain.",
+   "Alors des revendeurs, les binder boys, revendent ces réservations, parfois plusieurs fois dans la même journée.",
+   "Beaucoup d'acheteurs ne viennent jamais voir. Certains terrains se révèlent être des marécages.",
+   "Fin 1925, les chemins de fer arrêtent de transporter les marchandises non essentielles. Les matériaux de construction ne peuvent plus arriver.",
+   "Puis un bateau chavire et bloque le port de Miami.",
+   "En 1926, les acheteurs disparaissent, et un ouragan meurtrier frappe Miami.",
+   "Le boom est fini. Beaucoup de terrains ne valent plus qu'une fraction de leur prix.",
+   "Si quelque chose se vend trop vite pour même le regarder, ralentis."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "japan-bubble-1989.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/fr-lot-3/japan-bubble-1989.mp4",
+  "texte": null,
+  "script": [
+   "Et si on avait dit qu'un jardin de palais à Tokyo valait plus que toute la Californie ?",
+   "À la fin des années 1980, l'économie japonaise semble inarrêtable.",
+   "Les taux d'intérêt sont bas, et les banques prêtent sans compter, avec les terrains en garantie.",
+   "Des terrains plus chers, ce sont des prêts plus gros. Des prêts plus gros achètent plus de terrains.",
+   "Au sommet, une estimation célèbre disait que les jardins du palais impérial valaient plus que tout l'immobilier de Californie.",
+   "Des entreprises japonaises rachètent des symboles américains, comme le Rockefeller Center à New York.",
+   "Le 29 décembre 1989, l'indice boursier Nikkei atteint presque 39 000 points.",
+   "Puis la banque centrale relève les taux d'intérêt pour calmer le jeu.",
+   "En 1992, le Nikkei a perdu environ 60 %. Le prix des terrains continue de baisser pendant des années.",
+   "Le Japon appelle la décennie suivante la décennie perdue.",
+   "Quand des prix n'ont de sens que s'ils continuent de monter, en général, ils s'arrêtent."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "nikkei-34-years.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/fr-lot-3/nikkei-34-years.mp4",
+  "texte": null,
+  "script": [
+   "Et si tu avais investi au sommet, et que tu avais dû attendre 34 ans juste pour revenir à zéro ?",
+   "Décembre 1989. L'indice japonais Nikkei clôture à un record : presque 39 000 points.",
+   "Les investisseurs sont sûrs que le Japon va bientôt dominer le monde.",
+   "Les actions valent environ 60 fois leurs bénéfices. Très cher.",
+   "Puis la bulle éclate.",
+   "En 2009, après une autre crise mondiale, le Nikkei tombe près de 7 000 points. Plus de 80 % de baisse.",
+   "Toute une génération d'épargnants japonais apprend à avoir peur des actions.",
+   "Il faut attendre février 2024 pour que le Nikkei batte enfin son record de 1989.",
+   "34 ans plus tard.",
+   "Les dividendes ont un peu aidé en chemin. Mais tout acheter dans un seul marché très cher a été brutal.",
+   "Le long terme ne marche que si tu ne paies pas trop cher, et que tu ne mets pas tout au même endroit."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "one-coca-cola-share-1919.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/fr-lot-3/one-coca-cola-share-1919.mp4",
+  "texte": null,
+  "script": [
+   "Et si tes arrière-grands-parents avaient acheté une seule action Coca-Cola en 1919 ?",
+   "Cette année-là, Coca-Cola entre en Bourse à 40 dollars l'action.",
+   "En moins d'un an, le prix du sucre s'envole, et l'action tombe à environ 19 dollars. Aïe.",
+   "La plupart des gens vendraient. Mais imagine qu'ils l'aient oubliée dans un tiroir.",
+   "Au fil des décennies, l'entreprise divise ses actions encore et encore.",
+   "Cette seule action devient 9 216 actions.",
+   "Aujourd'hui, ça vaut bien plus de 600 000 dollars.",
+   "Et ça rapporte environ 18 000 dollars de dividendes par an.",
+   "Si chaque dividende avait été réinvesti, les estimations se comptent en millions.",
+   "Tout ça avec une seule action, et beaucoup de patience.",
+   "Le temps passé dans une bonne entreprise peut faire plus que n'importe quel coup malin."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "anne-scheiber-5000-to-22-million.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/fr-lot-3/anne-scheiber-5000-to-22-million.mp4",
+  "texte": null,
+  "script": [
+   "Et si une contrôleuse des impôts à la retraite avait transformé 5 000 dollars en 22 millions ?",
+   "Anne Scheiber a travaillé plus de 20 ans au fisc américain. Elle avait un diplôme de droit, mais dit n'avoir jamais été promue.",
+   "En 1944, elle part à la retraite avec environ 5 000 dollars d'économies.",
+   "Elle les place en actions de grandes entreprises connues. Boissons, médicaments, divertissement.",
+   "Puis elle fait une chose rare : presque rien.",
+   "Elle garde ses actions, réinvestit les dividendes, et vit dans un minuscule appartement en location.",
+   "Elle lit les rapports annuels et va aux assemblées d'actionnaires.",
+   "Quand elle meurt en 1995, à 101 ans, son portefeuille vaut environ 22 millions de dollars.",
+   "Ça fait environ 18 % par an, pendant 50 ans.",
+   "Elle lègue presque tout pour financer des bourses d'études pour des jeunes femmes.",
+   "La patience est une stratégie que tout le monde peut se permettre."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "sylvia-bloom-secret-millionaire.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/fr-lot-3/sylvia-bloom-secret-millionaire.mp4",
+  "texte": null,
+  "script": [
+   "Et si une secrétaire avait copié en silence les placements de ses patrons pendant 60 ans ?",
+   "Sylvia Bloom est secrétaire juridique dans un grand cabinet d'avocats de New York pendant 67 ans.",
+   "Elle prend le métro pour aller travailler, même à plus de 90 ans.",
+   "Une partie de son travail : passer les ordres de Bourse de ses patrons.",
+   "Alors quand un patron achète une action, elle achète la même. Juste en bien plus petite quantité.",
+   "Elle n'en parle jamais. Même sa famille n'en sait rien.",
+   "Elle meurt en 2016, à 96 ans.",
+   "Sa nièce ouvre les comptes et trouve environ 8,2 millions de dollars.",
+   "Sylvia lègue plus de 6 millions à une association qui aide des étudiants pauvres à aller à l'université.",
+   "C'est le plus gros don d'une seule personne de toute son histoire.",
+   "De petites sommes, de bonnes entreprises, et beaucoup de temps. Aucune formule secrète."
+  ],
+  "config": null
  }
 ]
