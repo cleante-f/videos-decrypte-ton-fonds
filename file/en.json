@@ -1745,5 +1745,24 @@
    "When something promises safety and twenty percent, ask what's really holding it up."
   ],
   "config": null
+ },
+ {
+  "fichier": "silicon-valley-bank-run.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/silicon-valley-bank-run.mp4",
+  "texte": null,
+  "script": [
+   "What if a bank collapsed in under two days because of a group chat?",
+   "Silicon Valley Bank is the bank of tech startups.",
+   "In 2020 and 2021, deposits pour in, and the bank invests them in safe long-term government bonds.",
+   "Safe, unless interest rates rise. And in 2022, they rise fast.",
+   "New bonds pay more, so the old ones lose value. The bank is sitting on huge hidden losses.",
+   "On March eighth, 2023, it announces a loss and asks for new money.",
+   "Founders text each other: get your money out.",
+   "The next day, customers try to withdraw forty-two billion dollars.",
+   "On March tenth, regulators shut the bank down.",
+   "Most deposits were above the two hundred fifty thousand dollar insurance limit.",
+   "A bank runs on trust. And trust can now leave at the speed of a text."
+  ],
+  "config": null
  }
 ]
