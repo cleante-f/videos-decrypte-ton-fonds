@@ -2239,5 +2239,24 @@
    "Even the smallest coin follows the rules of economics."
   ],
   "config": null
+ },
+ {
+  "fichier": "pacioli-double-entry.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/pacioli-double-entry.mp4",
+  "texte": null,
+  "script": [
+   "What if a monk who was friends with Leonardo da Vinci wrote the rules every company still follows?",
+   "Venice, 1494. Luca Pacioli, a monk and math teacher, publishes a giant math book.",
+   "Inside, a few pages explain how Venetian merchants keep their accounts.",
+   "He didn't invent the method. But he was the first to print it clearly, for anyone to learn.",
+   "The idea is simple: every transaction is written twice.",
+   "Sell a cloth for ten ducats? Your cash goes up ten. Your stock of cloth goes down ten.",
+   "One side is called debit, the other credit. At the end, both sides must balance.",
+   "If they don't, there's a mistake, or a theft.",
+   "The book spreads across Europe. Pacioli also teaches math to his friend Leonardo.",
+   "Five hundred years later, every bank, startup and giant company still uses double entry.",
+   "Every euro comes from somewhere and goes somewhere. Track both."
+  ],
+  "config": null
  }
 ]
