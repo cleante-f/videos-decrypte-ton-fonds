@@ -3379,5 +3379,43 @@
    "Its value is a mix of chemistry, scarcity, and a very old shared belief."
   ],
   "config": null
+ },
+ {
+  "fichier": "banks-lend-your-money.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/banks-lend-your-money.mp4",
+  "texte": null,
+  "script": [
+   "What if your money isn't actually sitting in your bank?",
+   "When you deposit a hundred dollars, the bank doesn't lock it away in a vault.",
+   "It keeps only a small part as cash and reserves.",
+   "The rest is lent out to other people, for homes, cars and businesses.",
+   "That's called fractional reserve banking.",
+   "And when that loan gets spent and deposited in another bank, part of it can be lent again.",
+   "This is how banks help create most of the money in the economy.",
+   "It works as long as not everyone wants their cash back at the same time.",
+   "If they do, it's a bank run, like the ones in the 1930s, or Silicon Valley Bank in 2023.",
+   "That's why many countries insure deposits, in the US usually up to two hundred fifty thousand dollars per person, per bank.",
+   "Your money is safe in a different way than you think: it's working, not sleeping."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "mortgage-interest-30-years.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/mortgage-interest-30-years.mp4",
+  "texte": null,
+  "script": [
+   "What if your house ends up costing you about twice its price?",
+   "Say you borrow three hundred thousand dollars for thirty years, at six percent interest.",
+   "Your monthly payment is about one thousand eight hundred dollars.",
+   "Over thirty years, you'd pay about three hundred forty seven thousand dollars in interest alone.",
+   "That's more than the loan itself.",
+   "And at the start, most of each payment is interest: about fifteen hundred of the first eighteen hundred.",
+   "That's because interest is charged on what you still owe, and early on you owe almost everything.",
+   "A fifteen year loan costs more each month, but total interest drops to about one hundred fifty six thousand dollars.",
+   "Even adding two hundred dollars a month could save about seven years and roughly ninety thousand dollars of interest.",
+   "Rates matter too: at seven percent, the interest would top four hundred thousand dollars.",
+   "Before signing, look at the total cost, not just the monthly payment."
+  ],
+  "config": null
  }
 ]
