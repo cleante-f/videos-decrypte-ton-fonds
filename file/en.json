@@ -2828,5 +2828,24 @@
    "When everyone around you agrees, that's the moment to think for yourself."
   ],
   "config": null
+ },
+ {
+  "fichier": "monte-carlo-gamblers-fallacy.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/monte-carlo-gamblers-fallacy.mp4",
+  "texte": null,
+  "script": [
+   "What if a roulette wheel landed on black twenty-six times in a row?",
+   "Monte Carlo Casino, August 1913. At one roulette table, black comes up again. And again.",
+   "After about fifteen blacks, the crowd gets excited. Red is surely due now.",
+   "Gamblers rush to bet on red. Bigger and bigger bets.",
+   "Black. Black. Black.",
+   "The streak finally ends after twenty-six blacks in a row. The casino wins millions of francs.",
+   "The mistake has a name: the gambler's fallacy. The belief that past results change future odds.",
+   "But the wheel has no memory. Each spin, the chance of red is almost exactly the same.",
+   "Investors do it too: a stock fell five days in a row, so it must bounce tomorrow. Or a coin flip is due.",
+   "Patterns feel meaningful, even in pure chance.",
+   "Past results don't owe you anything. Judge each bet on its own odds."
+  ],
+  "config": null
  }
 ]
