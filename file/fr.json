@@ -2748,5 +2748,24 @@
    "Avant de dépenser, oublie l'étiquette. Demande-toi à quoi cet argent servirait le mieux."
   ],
   "config": null
+ },
+ {
+  "fichier": "herd-behavior.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/fr-lot-3/herd-behavior.mp4",
+  "texte": null,
+  "script": [
+   "Et si tu donnais une réponse clairement fausse, juste parce que tout le monde l'a fait ?",
+   "Dans les années 1950, le psychologue Solomon Asch montre à des volontaires une simple carte avec des traits.",
+   "Quel trait a la même longueur que le premier ? La réponse est évidente.",
+   "Mais le volontaire est dans une pièce avec des acteurs, qui donnent tous la même mauvaise réponse à voix haute.",
+   "Environ une fois sur trois, le volontaire suit le groupe.",
+   "Et trois volontaires sur quatre le font au moins une fois.",
+   "Notre cerveau déteste être le seul à part. Suivre la foule donne une impression de sécurité.",
+   "Les marchés fonctionnent pareil. Les gens achètent parce que d'autres achètent, et les prix montent parce que les prix montent.",
+   "C'est comme ça que les bulles gonflent. Et quand la foule fait demi-tour, tout le monde court vers la sortie en même temps.",
+   "Avec l'argent, la foule a souvent raison au milieu, et tort aux extrêmes.",
+   "Quand tout le monde autour de toi est d'accord, c'est le moment de réfléchir par toi-même."
+  ],
+  "config": null
  }
 ]
