@@ -3531,5 +3531,81 @@
    "Bastiat's lesson: look at what is seen, and at what is not seen."
   ],
   "config": null
+ },
+ {
+  "fichier": "cobra-effect.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/cobra-effect.mp4",
+  "texte": null,
+  "script": [
+   "What if a reward made the problem worse?",
+   "The story goes that in colonial Delhi, officials paid a bounty for every dead cobra.",
+   "At first, it worked. People brought in dead snakes.",
+   "Then some started breeding cobras, just to collect the reward.",
+   "When officials ended the program, breeders released the now worthless snakes.",
+   "Historians aren't sure that tale is true, but a similar story is well documented.",
+   "In 1902, French authorities in Hanoi paid people for each rat tail.",
+   "Soon, rats without tails were seen running around the city.",
+   "People were cutting off the tails and letting the rats go, so they could breed more.",
+   "Economists call this the cobra effect: an incentive that backfires.",
+   "Before rewarding a number, ask how people could game it."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "goodharts-law.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/goodharts-law.mp4",
+  "texte": null,
+  "script": [
+   "What if measuring something could ruin it?",
+   "In 1975, British economist Charles Goodhart noticed a pattern.",
+   "Once a number becomes a target, people start chasing the number instead of the goal.",
+   "That idea is now known as Goodhart's law.",
+   "An old joke about Soviet factories shows it well.",
+   "Told to make as many nails as possible, a factory made millions of tiny, useless nails.",
+   "Told to make the most tons of nails, it made a few giant, useless ones.",
+   "Real life does this too: schools teaching only to the test, or call centers rushing customers to cut call times.",
+   "In companies, tough sales targets can push staff to cheat, like opening fake accounts.",
+   "The number goes up, but the thing you actually care about gets worse.",
+   "Use numbers as signals, not as the goal itself."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "diamond-water-paradox.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/diamond-water-paradox.mp4",
+  "texte": null,
+  "script": [
+   "Why is water, which keeps you alive, so cheap, while diamonds are so expensive?",
+   "In 1776, Adam Smith pointed out this puzzle in The Wealth of Nations.",
+   "Water is essential, yet it often costs almost nothing.",
+   "Diamonds are useless for survival, yet they cost a fortune.",
+   "About a century later, economists solved it with a simple idea: the value of one more unit.",
+   "Water is everywhere, so one extra glass doesn't add much.",
+   "Diamonds are rare, so one more feels special.",
+   "Prices depend on that last unit, not on how important the whole thing is.",
+   "Now imagine being lost in a desert.",
+   "Suddenly, you'd happily trade a diamond for one bottle of water.",
+   "Value isn't just about usefulness. It's about how scarce something is, right now."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "veblen-goods.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/veblen-goods.mp4",
+  "texte": null,
+  "script": [
+   "What if raising a price made people want something more?",
+   "Normally, when prices go up, people buy less.",
+   "But some products break that rule.",
+   "In 1899, economist Thorstein Veblen wrote about conspicuous consumption.",
+   "Buying expensive things not for their use, but to show off status.",
+   "For these goods, the high price is the whole point.",
+   "A luxury handbag that suddenly cost much less might lose its appeal.",
+   "If everyone can have it, it no longer signals wealth.",
+   "Economists call them Veblen goods: luxury watches, designer bags, rare cars.",
+   "Some luxury brands raise prices regularly, and demand stays strong.",
+   "Next time a high price makes something more tempting, ask who you're really buying it for."
+  ],
+  "config": null
  }
 ]
