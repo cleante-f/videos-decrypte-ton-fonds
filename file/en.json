@@ -3607,5 +3607,176 @@
    "Next time a high price makes something more tempting, ask who you're really buying it for."
   ],
   "config": null
+ },
+ {
+  "fichier": "giffen-goods.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/giffen-goods.mp4",
+  "texte": null,
+  "script": [
+   "What if a price going up made poor families buy more of something?",
+   "It sounds impossible. Higher prices usually mean people buy less.",
+   "In the 1890s, economist Alfred Marshall described a strange exception, credited to Robert Giffen.",
+   "Imagine a very poor family that mostly eats cheap rice, with a little meat when it can.",
+   "Then the price of rice goes up.",
+   "Now they can't afford the meat anymore.",
+   "To get enough calories, they replace the meat with even more rice.",
+   "So the price rose, and they bought more of it.",
+   "For a long time, real examples were hard to prove.",
+   "But a 2008 study in China found that when rice got cheaper, very poor families in Hunan actually bought less of it.",
+   "For the poorest, prices can work in surprising ways."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "tragedy-of-the-commons.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/tragedy-of-the-commons.mp4",
+  "texte": null,
+  "script": [
+   "What if everyone acting smart could destroy something we all share?",
+   "Imagine a village pasture that any farmer can use for free.",
+   "Each farmer thinks: one more cow means more profit for me.",
+   "The cost of the extra grazing is shared by everyone.",
+   "So every farmer adds cows, and soon the grass is gone.",
+   "In 1968, ecologist Garrett Hardin called this the tragedy of the commons.",
+   "It happened for real off the coast of Canada.",
+   "Cod fishing grew so intense that in 1992 the stocks collapsed, and fishing was banned.",
+   "Tens of thousands of people lost their jobs.",
+   "But economist Elinor Ostrom won a Nobel Prize for showing communities can manage shared resources with their own rules.",
+   "Shared things need shared rules, or they disappear."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "moral-hazard.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/moral-hazard.mp4",
+  "texte": null,
+  "script": [
+   "What if being protected from risk made people take more risks?",
+   "Economists call it moral hazard.",
+   "Imagine your phone is fully insured, with nothing to pay if it breaks.",
+   "Would you be a little less careful with it? Many people would.",
+   "Insurers know this, so they add deductibles: you pay the first part of any claim.",
+   "It also happens with banks.",
+   "If a bank thinks the government will rescue it, it may take bigger risks with other people's money.",
+   "That's what many critics argued after the 2008 bailouts.",
+   "Some banks were seen as too big to fail.",
+   "Profits stay private, while losses can become public.",
+   "When someone else pays for your mistakes, you tend to make more of them."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "market-for-lemons.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/market-for-lemons.mp4",
+  "texte": null,
+  "script": [
+   "What if bad products could push good ones out of the market?",
+   "In 1970, economist George Akerlof wrote about used cars.",
+   "Some used cars are great. Others are lemons, with hidden problems.",
+   "The seller knows which is which. The buyer can't tell.",
+   "So buyers only offer an average price, just in case.",
+   "But owners of great cars won't sell for an average price.",
+   "They leave the market, and the share of lemons grows.",
+   "Buyers lower their offers even more, and more good sellers leave.",
+   "Akerlof's paper was rejected several times, then helped win him a Nobel Prize.",
+   "That's why warranties, inspections and reviews exist: to build trust.",
+   "When one side knows more, trust becomes the most valuable part of the deal."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "why-prices-end-in-99.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/why-prices-end-in-99.mp4",
+  "texte": null,
+  "script": [
+   "Why do so many prices end in ninety nine?",
+   "Four ninety nine feels much cheaper than five dollars, even though it's just one cent less.",
+   "Our brains read prices from left to right, and the first digit sticks.",
+   "So four ninety nine feels like four, not five.",
+   "Psychologists call this the left digit effect.",
+   "In one famous experiment, a catalog sold the same dress at thirty four, thirty nine and forty four dollars.",
+   "The thirty nine dollar version sold the most, even more than the cheaper one.",
+   "Prices ending in nine also signal a deal, as if the item is on sale.",
+   "Luxury stores often do the opposite, with round prices, to look premium.",
+   "One old story even says odd prices forced cashiers to open the register for change.",
+   "Next time you see nine ninety nine, round it up in your head."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "free-shipping-trap.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/free-shipping-trap.mp4",
+  "texte": null,
+  "script": [
+   "What if free shipping is costing you more money?",
+   "Your cart is at forty one dollars. Free shipping starts at fifty.",
+   "Shipping alone would cost six dollars.",
+   "So you add a twelve dollar item you didn't really need.",
+   "You dodged a six dollar fee by spending twelve dollars more.",
+   "Stores know this. The threshold is often set just above a typical basket.",
+   "Behavioral economists call it the zero price effect: free feels far better than cheap.",
+   "In one well known case, an online bookstore offered free shipping on bigger orders, except in France, where it charged about twenty cents.",
+   "Extra orders jumped everywhere else, but barely moved in France.",
+   "Before adding something, ask: would I buy this if shipping were already free?",
+   "Sometimes paying for shipping is the cheapest option."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "free-trial-trap.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/free-trial-trap.mp4",
+  "texte": null,
+  "script": [
+   "What if a free trial is designed for you to forget?",
+   "Free for thirty days. You just need to enter your card.",
+   "Companies know many people won't cancel in time.",
+   "When the trial ends, it quietly turns into a paid subscription.",
+   "Some make signing up one click, and canceling a maze of menus, calls or chats.",
+   "Designers call these tricks dark patterns.",
+   "And small monthly charges are easy to ignore.",
+   "In one US survey, people guessed they spent about eighty six dollars a month on subscriptions. The real number was closer to two hundred nineteen.",
+   "That's more than two and a half times what they thought.",
+   "When you start a trial, set a reminder to cancel the day before it ends.",
+   "Free is only free if you remember to leave."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "phoebus-lightbulb-cartel.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/phoebus-lightbulb-cartel.mp4",
+  "texte": null,
+  "script": [
+   "What if your light bulbs were designed to burn out sooner?",
+   "In 1924, the world's biggest light bulb makers met in Geneva.",
+   "They formed a secret cartel named Phoebus.",
+   "Back then, many bulbs could last fifteen hundred to two thousand hours, or more.",
+   "The cartel set a limit: one thousand hours.",
+   "Companies whose bulbs lasted too long had to pay fines.",
+   "Shorter life meant people bought bulbs more often.",
+   "The cartel fell apart around World War Two, but the idea now has a name: planned obsolescence.",
+   "Meanwhile, a bulb in a California fire station has been glowing since 1901.",
+   "Today, many countries are pushing for products that are easier to repair.",
+   "Sometimes things break not by accident, but by design."
+  ],
+  "config": null
+ },
+ {
+  "fichier": "black-wednesday-1992.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/lot-3/black-wednesday-1992.mp4",
+  "texte": null,
+  "script": [
+   "What if one investor bet against a whole country's currency, and won?",
+   "In 1992, Britain had promised to keep the pound above a set level against the German mark.",
+   "But Britain's economy was weak, and many traders thought the pound was overvalued.",
+   "George Soros and his fund bet around ten billion dollars that the pound would fall.",
+   "On September 16, the Bank of England bought pounds by the billions to hold the price up.",
+   "It raised interest rates from ten to twelve percent, and announced fifteen.",
+   "It didn't work. That evening, Britain gave up and let the pound fall.",
+   "Soros reportedly made about one billion dollars.",
+   "The day became known as Black Wednesday, and one later estimate put the cost to taxpayers at over three billion pounds.",
+   "Some economists say leaving that system actually helped Britain recover.",
+   "When markets stop believing a promise, even a central bank can't hold the line forever."
+  ],
+  "config": null
  }
 ]
