@@ -3318,5 +3318,24 @@
    "Sa valeur est un mélange de chimie, de rareté et d'une très vieille croyance partagée."
   ],
   "config": null
+ },
+ {
+  "fichier": "banks-lend-your-money.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/fr-lot-3/banks-lend-your-money.mp4",
+  "texte": null,
+  "script": [
+   "Et si ton argent ne dormait pas vraiment dans ta banque ?",
+   "Quand tu déposes 100 €, la banque ne l'enferme pas dans un coffre.",
+   "Elle n'en garde qu'une petite partie en liquide et en réserves.",
+   "Le reste est prêté à d'autres personnes, pour des logements, des voitures et des entreprises.",
+   "Ça s'appelle le système des réserves fractionnaires.",
+   "Et quand ce prêt est dépensé puis déposé dans une autre banque, une partie peut être prêtée à nouveau.",
+   "C'est comme ça que les banques aident à créer la plus grande partie de l'argent de l'économie.",
+   "Ça marche tant que tout le monde ne veut pas récupérer son argent en même temps.",
+   "Sinon, c'est une panique bancaire, comme dans les années 1930, ou la Silicon Valley Bank en 2023.",
+   "C'est pour ça que beaucoup de pays garantissent les dépôts, en général jusqu'à 100 000 euros par personne et par banque en Europe.",
+   "Ton argent est en sécurité d'une autre façon que tu crois : il travaille, il ne dort pas."
+  ],
+  "config": null
  }
 ]
