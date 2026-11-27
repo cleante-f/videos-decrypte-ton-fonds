@@ -2995,5 +2995,24 @@
    "L'odeur de voiture neuve la moins chère, c'est celle que quelqu'un d'autre a déjà payée."
   ],
   "config": null
+ },
+ {
+  "fichier": "big-mac-index.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/fr-lot-3/big-mac-index.mp4",
+  "texte": null,
+  "script": [
+   "Et si un burger pouvait te dire si une monnaie est trop bon marché ?",
+   "En 1986, le magazine The Economist a inventé un test amusant : l'indice Big Mac.",
+   "L'idée est simple : le même burger est vendu dans des dizaines de pays.",
+   "Alors en théorie, il devrait coûter à peu près pareil partout, une fois la monnaie convertie.",
+   "Les économistes appellent ça la parité de pouvoir d'achat.",
+   "Si le burger est beaucoup moins cher dans un pays, sa monnaie est peut-être sous-évaluée.",
+   "S'il coûte beaucoup plus cher, la monnaie est peut-être surévaluée.",
+   "Le burger suisse est en général parmi les plus chers en dollars.",
+   "Mais ce n'est qu'un repère grossier, parce que les salaires, les loyers et les taxes locales changent aussi les prix.",
+   "Même ses créateurs le décrivaient comme un guide léger.",
+   "Mais il a transformé une idée d'économie compliquée en quelque chose qui se mange."
+  ],
+  "config": null
  }
 ]
