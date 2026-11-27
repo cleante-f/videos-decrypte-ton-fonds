@@ -3109,5 +3109,24 @@
    "En Bourse, un avantage connu de tous reste rarement un avantage."
   ],
   "config": null
+ },
+ {
+  "fichier": "short-selling.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/fr-lot-3/short-selling.mp4",
+  "texte": null,
+  "script": [
+   "Et si tu pouvais gagner de l'argent quand une action baisse ?",
+   "Ça s'appelle la vente à découvert.",
+   "D'abord, tu empruntes des actions à un courtier, et tu les vends tout de suite.",
+   "Disons que tu vends une action à 100 dollars.",
+   "Si le prix tombe à 60, tu la rachètes et tu rends l'action.",
+   "Tu gardes la différence de 40 dollars, moins les frais et les intérêts.",
+   "Mais si le prix monte au contraire, tu perds de l'argent.",
+   "Et comme un prix peut monter sans plafond, ta perte possible n'a pas de limite.",
+   "Si beaucoup de vendeurs à découvert se ruent pour racheter en même temps, le prix peut exploser. C'est une compression des vendeurs à découvert.",
+   "C'est en partie ce qui a fait s'envoler l'action d'un vendeur de jeux vidéo début 2021.",
+   "La vente à découvert peut être utile, mais c'est l'un des paris les plus risqués en Bourse."
+  ],
+  "config": null
  }
 ]
