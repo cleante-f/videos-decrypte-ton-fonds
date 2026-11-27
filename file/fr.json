@@ -2767,5 +2767,24 @@
    "Quand tout le monde autour de toi est d'accord, c'est le moment de réfléchir par toi-même."
   ],
   "config": null
+ },
+ {
+  "fichier": "monte-carlo-gamblers-fallacy.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/fr-lot-3/monte-carlo-gamblers-fallacy.mp4",
+  "texte": null,
+  "script": [
+   "Et si une roulette tombait sur le noir 26 fois de suite ?",
+   "Casino de Monte-Carlo, août 1913. À une table de roulette, le noir sort encore. Et encore.",
+   "Après une quinzaine de noirs, la foule s'excite. Le rouge doit forcément sortir maintenant.",
+   "Les joueurs se ruent pour miser sur le rouge. Des mises de plus en plus grosses.",
+   "Noir. Noir. Noir.",
+   "La série s'arrête enfin après 26 noirs de suite. Le casino gagne des millions de francs.",
+   "Cette erreur a un nom : l'erreur du joueur. Croire que les résultats passés changent les chances futures.",
+   "Mais la roulette n'a pas de mémoire. À chaque tour, la chance du rouge est presque exactement la même.",
+   "Les investisseurs le font aussi : une action a baissé cinq jours de suite, donc elle doit rebondir demain. Ou pile doit forcément tomber.",
+   "Les séries semblent avoir un sens, même dans le pur hasard.",
+   "Les résultats passés ne te doivent rien. Juge chaque pari sur ses propres chances."
+  ],
+  "config": null
  }
 ]
