@@ -2900,5 +2900,24 @@
    "Ne mesure pas l'argent à ce que tu gagnes. Mesure-le à ce qu'il te reste."
   ],
   "config": null
+ },
+ {
+  "fichier": "credit-score-cost.mp4",
+  "url": "https://github.com/cleante-f/videos-decrypte-ton-fonds/releases/download/fr-lot-3/credit-score-cost.mp4",
+  "texte": null,
+  "script": [
+   "Et si un nombre à trois chiffres pouvait te coûter plus de 100 000 dollars ?",
+   "Aux États-Unis, les prêteurs regardent ton score de crédit FICO, de 300 à 850.",
+   "C'est une note sur ta fiabilité à rembourser ce que tu dois.",
+   "La plus grosse part, environ 35 %, c'est simplement payer à l'heure.",
+   "Environ 30 %, c'est la part du crédit disponible que tu utilises.",
+   "Le reste : depuis combien de temps tu as du crédit, les nouvelles demandes, et le mélange de prêts.",
+   "Voilà pourquoi ça compte. Prends un prêt immobilier de 300 000 dollars sur 30 ans.",
+   "Avec un excellent score, peut-être 6,5 % d'intérêt. Avec un moins bon, peut-être 8 %.",
+   "La mensualité augmente d'environ 300 dollars.",
+   "Sur 30 ans, ça fait environ 110 000 dollars de plus.",
+   "Des habitudes ennuyeuses, comme payer chaque facture à temps, peuvent valoir une petite fortune."
+  ],
+  "config": null
  }
 ]
